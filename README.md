@@ -1,7 +1,10 @@
-# Flexiplan
-Automated Task Scheduling System
-
 # Intelligent Task Scheduling System Using Constraint Programming
+*Project Report*
+
+Submitted to: Mr. Muhammad Aamir Gulzar  
+Course: Artificial Intelligence  
+Team member 1: Safiur Rehman  
+Team member 2: Najmus Sad
 
 ## 1. Introduction
 
